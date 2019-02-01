@@ -1,10 +1,6 @@
 {
-	"homepage": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
-	"<mcversion>": {
-		"<modversion>": "BetaV0.2.6"
-	},
-
-	"promos": {
-		"<mcversion>-latest": "BetaV0.2.6"
-	}
+    "homepage": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
+    "promos": {
+	"1.12.2-latest": "0.2.6"
+    }
 }
