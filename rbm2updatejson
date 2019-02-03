@@ -1,0 +1,12 @@
+{
+    "1.12.2": {
+	"1.0.0":"https://minecraft.curseforge.com/projects/rbm2/files",
+        "1.0.1": "https://minecraft.curseforge.com/projects/rbm2/files",
+	
+    },
+    "homepage": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
+    "promos": {
+        "1.12.2-latest": "1.0.1",
+        "1.12.2-recommended": "1.0.1"
+    }
+}
