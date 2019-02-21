@@ -1,12 +1,13 @@
 {
     "1.12.2": {
-	"0.2.6":"https://minecraft.curseforge.com/projects/slaughtercraftmod",
+	"0.3.0": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
+	"0.2.6": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
         "0.2.7": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
 	"0.2.8": "https://minecraft.curseforge.com/projects/slaughtercraftmod"
     },
     "homepage": "https://minecraft.curseforge.com/projects/slaughtercraftmod",
     "promos": {
-        "1.12.2-latest": "0.2.8",
-        "1.12.2-recommended": "0.2.7"
+        "1.12.2-latest": "0.3.0",
+        "1.12.2-recommended": "0.3.0"
     }
 }
