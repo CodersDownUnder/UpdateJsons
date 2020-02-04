@@ -1,10 +1,10 @@
 {
     "1.12.2": {
-	      "Alpha-0.1.5":"#"
+	      "Alpha-0.1.5":"#",
+	      "Alpha-0.2.0":"#"
     },
     "homepage": "#",
     "promos": {
-        "1.12.2-latest": "Alpha-0.1.5",
-        "1.12.2-recommended": "Alpha-0.1.5"
+        "1.12.2-latest": "Alpha-0.2.0"
     }
 }
